@@ -1,1 +1,2 @@
-# CS121-S23-Coon
+Alex Coon
+alexcoon1021@gmail.com
